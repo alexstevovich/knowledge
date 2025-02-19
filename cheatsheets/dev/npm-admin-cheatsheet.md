@@ -54,6 +54,15 @@ You can unpublish before 72 hours or 100 downloads (As of the time of writing th
 npm unpublish --force
 ```
 
+
+## Further Publishes
+
+Regular publish works after the first
+
+``` bat
+npm publish
+```
+
 # Global Install
 
 you can install with
